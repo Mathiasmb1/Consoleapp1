@@ -8,6 +8,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        //comment
+        //comment i love this course
     }
 }
